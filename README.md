@@ -5,7 +5,7 @@ Desenvolver a estrutura básica em **HTML puro** do front-end de uma plataforma 
 
 ## 🔗 Acesso ao Site (Publicação Web)
 O site pode ser acessado no seguinte endereço:
-https://github.com/Joaozy/PetShop-Projeto-FundamentoDeSistemaWeb-PUCRS.git
+https://joaozy.github.io/PetShop-Projeto-FundamentoDeSistemaWeb-PUCRS
 
 ---
 
@@ -37,4 +37,5 @@ O projeto foi desenvolvido em estrita conformidade com as restrições da Fase 1
 ## ✒️ Autoria
 * **Nome do Aluno/Autor:** João Francisco de Menezes Neto
 * **Disciplina:** Fundamentos de Sistema WEB
+
 * **Data de Entrega:** 10/11/2025
