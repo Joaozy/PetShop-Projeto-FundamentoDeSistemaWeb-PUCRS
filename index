@@ -28,7 +28,7 @@
             
             <article>
                 <h3>Cama Aconchegante Super Macia (Tamanho M)</h3>
-                <img src="https://images.unsplash.com/photo-1646195164326-124b72fb9d34?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170" 
+                <img src="img\foto1.jpeg" 
                     alt="Foto de uma cama para cachorro super macia e aconchegante" width="200">
                 <p>Descrição: Cama Aconchegante Super Macia (Tamanho M), perfeita para o descanso do seu pet.</p>
                 <p>Valor: R$ 149,90</p>
@@ -36,7 +36,7 @@
             
             <article>
                 <h3>Brinquedo Mordedor de Corda Resistente</h3>
-                <img src="https://media.istockphoto.com/id/89947245/pt/foto/c%C3%A3o-brinquedo-isolado-sobre-um-fundo-branco.webp?a=1&b=1&s=612x612&w=0&k=20&c=FE6VSG6NgTogfcJnJtK2KL0HtZr7hvAxIpQA5QsFfZw="
+                <img src="img\foto2.jpg"
                     alt="Foto de um brinquedo mordedor de corda colorida" width="200">
                 <p>Descrição: Brinquedo Mordedor de Corda Resistente, ideal para a diversão e saúde dental do seu cão.</p>
                 <p>Valor: R$ 45,50</p>
@@ -48,7 +48,7 @@
             
             <article>
                 <h3>Ração Premium Cães Adultos Raças Médias (10kg)</h3>
-                <img src="https://plus.unsplash.com/premium_photo-1683134382202-aac458a92c19?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8c2FjbyUyMHJhY2FvfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=500" 
+                <img src="img\foto3.jpeg" 
                     alt="Foto de um pacote de ração para cães adultos de raças médias" width="200">
                 <p>Descrição: Ração Premium Cães Adultos Raças Médias (10kg), com todos os nutrientes necessários.</p>
                 <p>Valor: R$ 189,90</p>
@@ -56,7 +56,7 @@
             
             <article>
                 <h3>Ração Premium Gatos Castrados Sabor Salmão (3kg)</h3>
-                <img src="https://plus.unsplash.com/premium_photo-1726761692986-6bcde87fc2b8?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmFjYW8lMjBnYXRvfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=500"
+                <img src="img\foto4.jpeg"
                     alt="Foto de um pacote de ração para gatos castrados sabor salmão" width="200">
                 <p>Descrição: Ração Premium Gatos Castrados Sabor Salmão (3kg), balanceada para controle de peso.</p>
                 <p>Valor: R$ 99,90</p>
@@ -68,7 +68,7 @@
             
             <article>
                 <h3>Tapete Higiênico Super Absorvente (30 unidades)</h3>
-                <img src="https://images.unsplash.com/photo-1712842955521-55c8c01ef148?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fFRhcGV0ZSUyMEhpZ2klQzMlQUFuaWNvJTIwU3VwZXIlMjBBYnNvcnZlbnRlfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=500"
+                <img src="img/foto5.jpeg"
                     alt="Foto de um pacote de tapetes higiênicos para cães" width="200">
                 <p>Descrição: Tapete Higiênico Super Absorvente (Pacote 30 unidades), com atrativo canino.</p>
                 <p>Valor: R$ 65,00</p>
@@ -76,7 +76,7 @@
             
             <article>
                 <h3>Fralda Descartável Macho (12 unidades)</h3>
-                <img src="https://media.istockphoto.com/id/1222777422/pt/foto/toy-poodle-on-sofa-with-diapers-sticking-out-tongue.webp?a=1&b=1&s=612x612&w=0&k=20&c=XhU-UiCawWdDMH4alxYl7XYqD6xmUxTcWBE8TfBGs_o="
+                <img src="img/foto6.jpg"
                     alt="Foto de um pacote de fraldas descartáveis para cães machos" width="200">
                 <p>Descrição: Fralda Descartável Macho (Pacote 12 unidades), ideal para viagens e pós-operatório.</p>
                 <p>Valor: R$ 42,00</p>
